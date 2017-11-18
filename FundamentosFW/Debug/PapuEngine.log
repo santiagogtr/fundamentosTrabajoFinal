@@ -1,0 +1,5 @@
+﻿  Human.cpp
+c:\users\luis\documents\papu-framework\papuengine\human.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\luis\documents\papu-framework\papuengine\human.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PapuEngine.vcxproj -> C:\Users\Luis\Documents\papu-framework\Debug\PapuEngine.exe
+  PapuEngine.vcxproj -> C:\Users\Luis\Documents\papu-framework\Debug\PapuEngine.pdb (Partial PDB)

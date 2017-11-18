@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PapuEngine.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bullet.cpp
+c:\users\proyecto\documents\funda\fundamentosfw\bullet.cpp(30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\proyecto\documents\funda\fundamentosfw\bullet.cpp(31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\proyecto\documents\funda\fundamentosfw\bullet.cpp(33): warning C4018: '>=': signed/unsigned mismatch
+c:\users\proyecto\documents\funda\fundamentosfw\bullet.cpp(34): warning C4018: '>=': signed/unsigned mismatch
+  FundamentosFW.vcxproj -> C:\Users\Proyecto\Documents\funda\Debug\FundamentosFW.exe
+  FundamentosFW.vcxproj -> C:\Users\Proyecto\Documents\funda\Debug\FundamentosFW.pdb (Partial PDB)
